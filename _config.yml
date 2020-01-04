@@ -8,7 +8,7 @@ github_username:  kctsiolis
 linkedin_username:  kctsiolis
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 gems:
   - jekyll-feed
 exclude:
