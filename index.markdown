@@ -9,7 +9,8 @@ layout: home
 ![bio-picture](images/bio_pic.jpg){:height="300" width="200"}
 
 {:style="text-align:justify"}
-Hello! My name is Konstantinos Christopher ("KC") Tsiolis. I am a second-year (U2) Honours Mathematics and Computer Science student at McGill University.
-I also conduct research in natural language processing under Professor Jackie Cheung.
+Hello! My name is Konstantinos Christopher ("KC") Tsiolis. I am an Honours Mathematics and Computer Science student at McGill University, 
+and will be entering my third year in the fall. I conduct research in natural language processing (NLP) at Mila and the McGill Reasoning and Learning Lab 
+under the supervision of Jackie Cheung. My research interests include commonsense reasoning and distributional semantics.
 
 Here is a link to my [CV](documents/cv.pdf).
