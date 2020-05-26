@@ -6,7 +6,7 @@ layout: home
 ---
 
 {:style="text-align:center"}
-![bio-picture](images/bio_pic.jpg){:height="300" width="200"}
+![bio-picture](images/bio_pic.jpg){:height="300" width="250"}
 
 {:style="text-align:justify"}
 Hello! My name is Konstantinos Christopher ("KC") Tsiolis. I am an Honours Mathematics and Computer Science student at McGill University, 
