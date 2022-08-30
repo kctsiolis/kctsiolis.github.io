@@ -1,7 +1,7 @@
 title: KC Tsiolis
 email: kc.tsiolis@mail.mcgill.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Mathematics and Computer Science Student at McGill University
+  M.Sc. Student in Mathematics at McGill University and Mila
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kctsiolis
@@ -9,12 +9,16 @@ linkedin_username:  kctsiolis
 twitter_username: kctsiolis
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+
+logo: bio_pic.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
