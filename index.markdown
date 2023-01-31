@@ -5,14 +5,13 @@
 
 <h2>Contact</h2>
 
-The best way to reach me is by email:
-kc (dot) tsiolis (at) mail (dot) mcgill (dot) ca
+Email: kc (dot) tsiolis (at) mail (dot) mcgill (dot) ca
 
 If you are at McGill, you will find me in my office with high probability:
 
-Burnside Hall, Room 1021
-805 Sherbrooke Street West
-Montreal, QC H3A 0B9
+<p>Burnside Hall, Room 1021<br/>
+805 Sherbrooke Street West<br/>
+Montreal, QC H3A 0B9</p>
 
 <h2>Bio</h2>
 My full name is Konstantinos Christopher Tsiolis, but most people call me by my initials "KC". I am a second-year M.Sc. student in Mathematics and Statistics at [McGill University](https://mcgill.ca) and [Mila](https://mila.quebec) under the supervision of [Adam Oberman](https://www.adamoberman.net/). I am broadly interested in developing a rigorous theoretical understanding of deep learning. My current research is on self-supervised learning and random matrix theory for neural networks.
