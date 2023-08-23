@@ -1,7 +1,7 @@
 title: KC Tsiolis
-email: kc.tsiolis@mail.mcgill.ca
+email: kc.tsiolis@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  M.Sc. Student in Mathematics at McGill University and Mila
+  Ph.D. Student in Statistics at the University of Toronto and the Vector Institute
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kctsiolis
