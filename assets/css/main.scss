@@ -41,15 +41,3 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-
-// === Custom spacing fix for sidebar/content ===
-
-@media (min-width: 768px) {
-  .sidebar {
-    margin-right: 2rem !important; // Adjust spacing between sidebar and content
-  }
-
-  .page__content {
-    padding-left: 1rem; // Optional: internal spacing for content
-  }
-}
