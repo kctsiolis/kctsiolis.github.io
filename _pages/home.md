@@ -1,7 +1,8 @@
 ---
+layout: single
 author_profile: true
 permalink: /
-title: Konstantinos Christopher Tsiolis
+title: "Konstantinos Christopher Tsiolis"
 ---
 Hello there! I am a second-year PhD student at the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the University of Toronto and the [Vector Institute](https://vectorinstitute.ai) under the supervision of [Murat Erdogdu](ttp://www.cs.toronto.edu/~erdogdu/). I also currently serve as President of the [Statistics Graduate Student Union](https://sgsu-uoft.github.io) at the University of Toronto. 
 
