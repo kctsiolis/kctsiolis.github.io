@@ -42,17 +42,14 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-// === Custom spacing override ===
-.page {
-  display: flex;
-  flex-wrap: wrap;
-}
+// === Custom spacing fix for sidebar/content ===
 
-.page .sidebar {
-  margin-right: 2rem;
-}
+@media (min-width: 768px) {
+  .sidebar {
+    margin-right: 2rem !important; // Adjust spacing between sidebar and content
+  }
 
-.page .page__content {
-  flex: 1;
-  min-width: 0;
+  .page__content {
+    padding-left: 1rem; // Optional: internal spacing for content
+  }
 }
