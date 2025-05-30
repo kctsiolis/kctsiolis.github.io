@@ -1,41 +1,45 @@
 title: KC Tsiolis
+name: KC Tsiolis
 email: kc.tsiolis@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. Student in Statistics at the University of Toronto and the Vector Institute
+  PhD Student in Statistics at the University of Toronto and the Vector Institute
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kctsiolis
-linkedin_username:  kctsiolis
-twitter_username: kctsiolis
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
+locale: "en-CA"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-gems:
-  - jekyll-feed
+- jekyll-feed
+include: 
+  - ["_pages"]
 exclude:
   - Gemfile
   - Gemfile.lock
 
-logo: bio_pic.jpg
+logo: "bio_pic.jpg"
+masthead_title: "Konstantinos Christopher (KC) Tsiolis"
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+author:
+  name: "KC Tsiolis"
+  avatar: "bio_pic.jpg"
+  bio: "PhD Student in Statistics at the University of Toronto"
+  location: "Toronto, Ontario, Canada"
+  links:
+    - label: Google Scholar
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.ca/citations?user=UDxHX4sAAAAJ&hl=en&oi=ao"
+    - label: "LinkedIn"
+      icon: "fa-linkedin" 
+      url: "https://linkedin.com/kctsiolis"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kctsiolis"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kctsiolis"
+
+
+
