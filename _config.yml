@@ -4,42 +4,53 @@ email: kc.tsiolis@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Student in Statistics at the University of Toronto and the Vector Institute
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 locale: "en-CA"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 include: 
-  - ["_pages"]
+  - _pages
 exclude:
   - Gemfile
   - Gemfile.lock
 
-logo: "bio_pic.jpg"
-masthead_title: "Konstantinos Christopher (KC) Tsiolis"
+logo: "files/bio_pic.jpg"
+masthead_title: "KC Tsiolis"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "home"
+      author_profile: true
 
 author:
   name: "KC Tsiolis"
-  avatar: "bio_pic.jpg"
+  avatar: "files/bio_pic.jpg"
   bio: "PhD Student in Statistics at the University of Toronto"
   location: "Toronto, Ontario, Canada"
   links:
-    - label: Google Scholar
-      icon: "ai ai-google-scholar"
+    - label: "Google Scholar"
+      icon: "fas fa-university"
       url: "https://scholar.google.ca/citations?user=UDxHX4sAAAAJ&hl=en&oi=ao"
     - label: "LinkedIn"
-      icon: "fa-linkedin" 
-      url: "https://linkedin.com/kctsiolis"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/kctsiolis"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/kctsiolis"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/kctsiolis"
+
 
 
 
