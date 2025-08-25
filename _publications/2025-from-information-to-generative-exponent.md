@@ -4,7 +4,7 @@ collection: publications
 category: preprints_workshops
 permalink: /publication/2025-from-information-to-generative-exponent
 date: 2025-06-09
-venue: 'To appear in <i>3rd Workshop on High-dimensional Learning Dynamics (HiLD)</i> at ICML'
+venue: '<i>3rd Workshop on High-dimensional Learning Dynamics (HiLD)</i> at ICML'
 paperurl: 'https://openreview.net/forum?id=0uozboWsA2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FWorkshop%2FHiLD%2FAuthors%23your-submissions)'
 excerpt: ''
 citation: 
