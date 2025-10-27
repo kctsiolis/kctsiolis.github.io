@@ -6,7 +6,7 @@ permalink: /publication/2020-word-prisms
 date: 2020-12-08
 venue: 'Published in <i>The 28th International Confernence on Comutational Linguistics</i> (COLING)'
 paperurl: 'https://aclanthology.org/2020.coling-main.106.pdf'
-citation: 'Jingyi He, KC Tsiolis, Kian Kenyon-Dean, and Jackie Chi Kit Cheung. 2020. <i>Learning Efficient Task-Specific Meta-Embeddings with Word Prisms.</i> In <i>Proceedings of the 28th International Conference on Computational Linguistics</i>, pages 1229–1241, Barcelona, Spain (Online). International Committee on Computational Linguistics.'
+citation: 'Jingyi He, KC Tsiolis, Kian Kenyon-Dean, and Jackie Chi Kit Cheung. <i>Learning Efficient Task-Specific Meta-Embeddings with Word Prisms.</i> In <i>Proceedings of the 28th International Conference on Computational Linguistics</i>, pages 1229–1241, Barcelona, Spain (Online). International Committee on Computational Linguistics, 2020.'
 excerpt: ''
 ---
 

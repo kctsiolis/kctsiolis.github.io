@@ -6,7 +6,7 @@ permalink: /publication/2023-msc-thesis
 date: 2023-08-01
 venue: 'MSc Thesis'
 paperurl: 'https://escholarship.mcgill.ca/concern/theses/6w924j09p'
-citation: 'Konstantinos Christopher Tsiolis. 2023. <i>Contrastive Learning as Kernel Approximation.</i> McGill University (Canada).'
+citation: 'Konstantinos Christopher Tsiolis. <i>Contrastive Learning as Kernel Approximation.</i> McGill University (Canada), 2023.'
 excerpt: ''
 ---
 
