@@ -13,4 +13,5 @@ Below is a collection of notes that I have prepared for seminars, reading group 
 - Reading group presentation on spectral clustering (based on von Luxburg's tutorial) [[Notes](/files/spectral_clustering_notes.pdf)]
 - Reading group presentation on "Scaling Laws of Optimization" (Francis Bach's blog post) [[Notes](/files/scaling_laws_of_optimization_notes.pdf)]
 - Reading group presentation on "Transformers as Statisticians" (Bai et al., 2023) [[Notes](/files/transformers_as_statisticians_notes.pdf)]
+- Brief summary of research on knowledge distillation of self-supervised image representations [[Notes](/files/summer2021_research_summary.pdf)]
 - Calculus 3 (MATH 222 at McGill) Final Exam Review Notes [[Notes](/files/math222_final_review.pdf)]
