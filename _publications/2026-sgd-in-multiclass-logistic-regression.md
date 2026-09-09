@@ -1,5 +1,5 @@
 ---
-title: "From Information to Generative Exponent: Learning Rate Induces Phase Transitions in SGD"
+title: "SGD in Multiclass Logistic Regression: Sequential Learning and Scaling Laws"
 collection: publications
 category: preprints
 permalink: /publication/2026-sgd-in-multiclass-logistic-regression
