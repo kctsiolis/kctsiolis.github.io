@@ -83,8 +83,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'   
-  preprints_workshops:
-    title: 'Preprints and Workshop Papers' 
+  preprints:
+    title: 'Preprints' 
   conferences:
     title: 'Conference Papers'
   theses:
