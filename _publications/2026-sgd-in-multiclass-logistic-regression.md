@@ -1,12 +1,13 @@
 ---
 title: "SGD in Multiclass Logistic Regression: Sequential Learning and Scaling Laws"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/2026-sgd-in-multiclass-logistic-regression
 date: 2026-09-08
 venue: To Appear at NeurIPS
 paperurl: 'https://arxiv.org/pdf/2609.07868'
-citation: 'Konstantinos Christopher Tsiolis, Denny Wu, Christos Thrampoulidis, and Murat A. Erdogdu. <i>SGD in Multiclass Logistic Regression: Sequential Learning and Scaling Laws</i> arXiv preprint arXiv:2609.07868, 2026.'
+excerpt: ''
+citation: 'Konstantinos Christopher Tsiolis, Denny Wu, Christos Thrampoulidis, and Murat A. Erdogdu. <i>SGD in Multiclass Logistic Regression: Sequential Learning and Scaling Laws</i>. arXiv preprint arXiv:2609.07868, 2026.'
 ---
 
 <b>Abstract</b>: We study the training dynamics of multiclass logistic regression on high-dimensional Gaussian mixture models with a large number of classes and establish precise scaling laws governing the cross-entropy risk under gradient-based optimization. We show that learning proceeds sequentially across classes, from most to least frequent. When the class priors follow a power law distribution, the risk dynamics decompose into three phases: an initial plateau until the first class is learned, a power-law decay regime during which sequential learning occurs, and a final convergence regime. 
