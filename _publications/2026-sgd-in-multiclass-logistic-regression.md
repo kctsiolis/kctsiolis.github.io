@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2026-sgd-in-multiclass-logistic-regression
 date: 2026-09-08
-venue: Preprint (Under Review)
+venue: To Appear at NeurIPS
 paperurl: 'https://arxiv.org/pdf/2609.07868'
 citation: 'Konstantinos Christopher Tsiolis, Denny Wu, Christos Thrampoulidis, and Murat A. Erdogdu. <i>SGD in Multiclass Logistic Regression: Sequential Learning and Scaling Laws</i> arXiv preprint arXiv:2609.07868, 2026.'
 ---

@@ -17,7 +17,7 @@ Contact: kc (dot) tsiolis (at) mail (dot) utoronto (dot) ca
 
 ## News
 
-- **September 2026:** My new preprint "[SGD in Multiclass Logistic Regression: Sequential Learning and Scaling Laws](https://arxiv.org/pdf/2609.07868)" is out now! This is joint work with Denny Wu, Christos Thrampoulidis, and Murat Erdogdu.
-- **June 2026** I gave a contributed talk on the theory of scaling laws at the [Stein's Method Meets Statistical Learning](https://www.birs.ca/events/2026/5-day-workshops/26w5542) workshop, held at the Banff International Research Station (BIRS).
+- **September 2026:** My paper "[SGD in Multiclass Logistic Regression: Sequential Learning and Scaling Laws](https://arxiv.org/pdf/2609.07868)" has been accepted as a poster at NeurIPS 2026! This is joint work with Denny Wu, Christos Thrampoulidis, and Murat Erdogdu. See you in Sydney this December!
+- **June 2026:** I gave a contributed talk on the theory of scaling laws at the [Stein's Method Meets Statistical Learning](https://www.birs.ca/events/2026/5-day-workshops/26w5542) workshop, held at the Banff International Research Station (BIRS).
 - **December 2025:** I presented my work "[From Information to Generative Exponent: Learning Rate Induces Phase Transitions in SGD](https://papers.nips.cc/paper_files/paper/2025/file/77b7d565f2370979b898d76d7ea27288-Paper-Conference.pdf)" at NeurIPS 2025 in San Diego. This is joint work with Alireza Mousavi-Hosseini and Murat Erdogdu.
 - **November 2025:** I am very grateful to have received the [Department of Statistical Sciences Student Leadership Award](https://www.statistics.utoronto.ca/news/department-statistical-sciences-celebrates-excellence-2025-research-gala-and-awards)!
